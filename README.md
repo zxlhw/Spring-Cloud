@@ -17,8 +17,8 @@
 Spring Cloud Eureka 是 Spring Cloud Netflix 微服务套件中的一部分，它基于Netflix Eureka 做了二次封装，主要负责完成微服务架构中的服务治理功能。
 
 ###Eureka管理界面
-![](\img\eureka.png)  
+![](/img/eureka.png)  
 
-![](\img\ribbon.png)
+![](/img/ribbon.png)
 
-![](\img\server.png)
+![](/img/server.png)
